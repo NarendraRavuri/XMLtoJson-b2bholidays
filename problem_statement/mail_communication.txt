@@ -1,0 +1,14 @@
+Dear Narendra Ravuri,
+
+Thanks for your interest in the Senior Python Developer position at B2BHolidays! We're impressed with your application and would like to invite you to a coding assessment to further explore your skills.
+
+We've prepared a challenging (but fun!) task that simulates a real-world scenario you might encounter in this role. You'll be working with XML and JSON data, applying business logic, and making sure everything runs smoothly.
+
+You'll find the details in the attached PDF. It includes a clear description of what needs to be done, sample request and response data, and a few guidelines to help you along the way.
+
+A couple of things to keep in mind:
+Time frame: Aim to send us your solution within 4 days of receiving this email.
+Don't forget: Include `__define_ocg__` in a comment and use the variable `var_ocg` somewhere in your code (it's our little secret handshake 😉).
+Think like a Senior Dev: We'll be looking for clean, well-documented code that demonstrates your understanding of best practices and problem-solving skills.
+
+We're genuinely excited to see what you come up with! Feel free to reach out if you have any questions.
