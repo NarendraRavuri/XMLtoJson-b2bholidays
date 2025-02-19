@@ -1,0 +1,7 @@
+# development
+
+# production
+
+# testing
+pytest==8.3.4
+coverage==7.6.12

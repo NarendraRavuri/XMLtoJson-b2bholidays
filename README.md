@@ -17,7 +17,7 @@ This is a Python project that processes XML requests for hotel offers, validates
 XMLtoJson-b2bholidays/
 ├── problem_statement/
 │   ├── mail_communication.txt                                 # Mail communication text to provide the context
-│   └── SeniorPythonDeveloperCodingAssessment_v2.pdf           # PDF file with deatiled requirements with business logic
+│   └── SeniorPythonDeveloperCodingAssessment_v2.pdf           # PDF file with deatiled requirements of business logic
 ├── src/
 │   ├── __init__.py
 │   ├── config.py                                              # Configuration file with constants and secret variables
